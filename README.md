@@ -254,7 +254,7 @@ interface CricapSDKConfig {
 
 ## API Reference
 
-See the full API documentation at docs.cricap.com/sdk for detailed information about all available methods and types.
+See the full API documentation at https://docs.cricap.com/sdk for detailed information about all available methods and types.
 
 ## Development
 
@@ -274,11 +274,11 @@ npm run dev
 
 ## Support
 
-- 📖 Documentation: docs.cricap.com
-- 🐛 Issue Tracker: github.com/CricapHQ/cricap-miniapp-sdk/issues
+- 📖 [Documentation](https://docs.cricap.com)
+- 🐛 [Issue Tracker](https://github.com/CricapHQ/cricap-miniapp-sdk/issues)
 - 💬 Discord Community: discord.gg/cricap-dev
-- 📧 Email Support: developers@cricap.com
+- 📧 Email Support: hi@cricap.com
 
 ## License
 
-MIT © Cricap
+[MIT](https://opensource.org/licenses/MIT) © [Cricap](https://www.cricap.com)
