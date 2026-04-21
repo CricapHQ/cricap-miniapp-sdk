@@ -254,7 +254,7 @@ interface CricapSDKConfig {
 
 ## API Reference
 
-See the [full API documentation](https://docs.cricap.com/sdk) for detailed information about all available methods and types.
+See the full API documentation at docs.cricap.com/sdk for detailed information about all available methods and types.
 
 ## Development
 
@@ -282,11 +282,11 @@ Check out the [examples directory](./examples) for complete mini app implementat
 
 ## Support
 
-- 📖 [Documentation](https://docs.cricap.com)
-- 🐛 [Issue Tracker](https://github.com/cricap/miniapp-sdk/issues)
-- 💬 [Discord Community](https://discord.gg/cricap-dev)
-- 📧 [Email Support](mailto:developers@cricap.com)
+- 📖 Documentation: docs.cricap.com
+- 🐛 Issue Tracker: github.com/CricapHQ/cricap-miniapp-sdk/issues
+- 💬 Discord Community: discord.gg/cricap-dev
+- 📧 Email Support: developers@cricap.com
 
 ## License
 
-MIT © [Cricap](https://cricap.com)
+MIT © Cricap
