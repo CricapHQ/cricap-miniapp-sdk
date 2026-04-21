@@ -2,7 +2,8 @@
 
 Official TypeScript SDK for the Cricap Mini App Ecosystem. Build powerful mini apps that integrate seamlessly with the Cricap platform.
 
-[![npm version](https://badge.fury.io/js/@cricap%2Fminiapp-sdk.svg)](https://badge.fury.io/js/@cricap%2Fminiapp-sdk)
+[![npm version](https://img.shields.io/npm/v/@cricap/miniapp-sdk.svg)](https://www.npmjs.com/package/@cricap/miniapp-sdk)
+[![npm downloads](https://img.shields.io/npm/dm/@cricap/miniapp-sdk.svg)](https://www.npmjs.com/package/@cricap/miniapp-sdk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Features
@@ -276,7 +277,7 @@ npm run dev
 
 - 📖 [Documentation](https://docs.cricap.com)
 - 🐛 [Issue Tracker](https://github.com/CricapHQ/cricap-miniapp-sdk/issues)
-- 💬 Discord Community: discord.gg/cricap-dev
+- 💬 [Discord Community](https://discord.gg/QGMZv2zV)
 - 📧 Email Support: hi@cricap.com
 
 ## License
