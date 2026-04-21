@@ -272,14 +272,6 @@ npm run build
 npm run dev
 ```
 
-## Examples
-
-Check out the [examples directory](./examples) for complete mini app implementations:
-
-- [Basic Mini App](./examples/basic) - Simple integration example
-- [Leaderboard Game](./examples/leaderboard-game) - Score submission and leaderboard
-- [Wallet Integration](./examples/wallet) - Wallet balance and transactions
-
 ## Support
 
 - 📖 Documentation: docs.cricap.com
